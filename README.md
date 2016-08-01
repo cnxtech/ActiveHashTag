@@ -8,7 +8,7 @@ Current version: [0.1.0]
 
 Gradle:
 ```groovy
-
+compile 'com.github.mugku:activehashtag:1.0.0'
 ```
 
 ###Test
