@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SuperRecyclerView/SuperRecyclerView.iml" filepath="$PROJECT_DIR$/../SuperRecyclerView/SuperRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UrlPreviewLibrary/UrlPreviewLibrary.iml" filepath="$PROJECT_DIR$/../UrlPreviewLibrary/UrlPreviewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activehashtag.iml" filepath="$PROJECT_DIR$/activehashtag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rximggetter/rximggetter.iml" filepath="$PROJECT_DIR$/../rximggetter/rximggetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sectionadapter/sectionadapter.iml" filepath="$PROJECT_DIR$/../sectionadapter/sectionadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zservice.iml" filepath="$PROJECT_DIR$/../zservice.iml" />
+    </modules>
+  </component>
+</project>

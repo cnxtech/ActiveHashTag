@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rxjava-optional-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eccyan/rxjava-optional/1.1.0/ea9f53b77cdc29027ec4ada483b5cafeb44aca2/rxjava-optional-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eccyan/rxjava-optional/1.1.0/b7f8d9b1fbe9d5746e58c560c459d95314bcda28/rxjava-optional-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

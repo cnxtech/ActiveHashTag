@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libSam_1.6.8_nolog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/libs/libSam_1.6.8_nolog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
