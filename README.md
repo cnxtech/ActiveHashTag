@@ -1,4 +1,6 @@
 # ActiveHashTag
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ActiveHashTag-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4303)
+
 Android HashTag Lib.
 
 Download
